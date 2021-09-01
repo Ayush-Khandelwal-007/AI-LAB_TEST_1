@@ -22,7 +22,7 @@ Input Format: The first line of input is T. the number of test cases. For every 
 ### Output
 30
 
-###Explanation
+### Explanation
 
 Step 1: Start from source (fixed to faculty or 0)
 
@@ -61,7 +61,7 @@ Input Format: The first line of input is T. the number of test cases. For every 
 ### Output
 0 1 0 2 4 3 0
 
-###Explanation
+### Explanation
 
 Step 1: Start from source (fixed to faculty or 0)
 
